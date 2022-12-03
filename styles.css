@@ -1,0 +1,12 @@
+body{
+
+    background-color: #302b63;
+    
+}
+
+.content{
+    margin-top: 8%;
+    background-color: #fff;
+    padding: 4rem 1em 4rem 1rem;/* arriba, dercha, abajo, izq*/
+    box-shadow: 0 0 10px 5px rgba(0,0,0, .05);
+}
